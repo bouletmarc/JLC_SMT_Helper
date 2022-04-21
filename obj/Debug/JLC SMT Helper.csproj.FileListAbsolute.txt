@@ -1,0 +1,9 @@
+C:\Users\boule\Documents\Visual Studio 2019\Projects\JLC SMT Helper\bin\Debug\JLC SMT Helper.exe
+C:\Users\boule\Documents\Visual Studio 2019\Projects\JLC SMT Helper\bin\Debug\JLC SMT Helper.pdb
+C:\Users\boule\Documents\Visual Studio 2019\Projects\JLC SMT Helper\obj\Debug\JLC SMT Helper.csprojAssemblyReference.cache
+C:\Users\boule\Documents\Visual Studio 2019\Projects\JLC SMT Helper\obj\Debug\JLC_SMT_Helper.Form1.resources
+C:\Users\boule\Documents\Visual Studio 2019\Projects\JLC SMT Helper\obj\Debug\JLC_SMT_Helper.Properties.Resources.resources
+C:\Users\boule\Documents\Visual Studio 2019\Projects\JLC SMT Helper\obj\Debug\JLC SMT Helper.csproj.GenerateResource.cache
+C:\Users\boule\Documents\Visual Studio 2019\Projects\JLC SMT Helper\obj\Debug\JLC SMT Helper.exe
+C:\Users\boule\Documents\Visual Studio 2019\Projects\JLC SMT Helper\obj\Debug\JLC SMT Helper.pdb
+C:\Users\boule\Documents\Visual Studio 2019\Projects\JLC SMT Helper\obj\Debug\JLC_SMT_Helper.Form2.resources
